@@ -8,9 +8,7 @@ export function Navbar() {
     const location = useLocation();
 
     return(
-        <>ssds
-        
-        
-                    </>
+        <>
+            </>
     )
 }
